@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2017-01-01'
+title: 'Software Engineer Intern'
+company: 'Cosmos'
+location: 'Karachi, Pakistan'
+range: 'Jan 2017 – Feb 2017'
+url: 'https://www.linkedin.com/company/cosmos-utopia/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Created a Java plugin using JSoup to scrape and collect images from websites.
+- Developed Spring Boot applications with CRUD RESTful services, leveraging Maven, Tomcat, and the MVC pattern.

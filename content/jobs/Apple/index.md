@@ -1,13 +1,14 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2024-12-01'
+title: 'Full Stack Developer'
+company: 'CompanyMood'
+location: 'Saarloius, DE'
+range: 'Aug 2023 - Nov 2024'
+url: 'https://www.company-mood.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Built high-performance APIs with Go (Iris) and Ruby on Rails, using Gulp for automation and Pug templates.
+- Containerized services with Docker and automated testing/deployments via GitLab CI/CD.
+- Developed cross-platform employee mood–tracking apps in React Native (New Architecture).
+- Managed and persisted complex state using Redux Toolkit and Async Storage.
+- Improved UX and efficiency with API response caching and React Navigation 6.

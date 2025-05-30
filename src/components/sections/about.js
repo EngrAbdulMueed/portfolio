@@ -125,8 +125,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,10 +133,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Abdul Mueed and I enjoy creating things that live on the internet.
+              My interest in web development started back in 2012 when I decided to try editing
+              custom Tumblr themes — turns out hacking together a custom reblog button taught me a
+              lot about HTML &amp; CSS!
             </p>
 
             <p>
@@ -161,12 +159,12 @@ const About = () => {
               &amp; React.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            {/* <p>Here are a few technologies I’ve been working with recently:</p> */}
           </div>
 
-          <ul className="skills-list">
+          {/* <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+          </ul> */}
         </StyledText>
 
         <StyledPic>

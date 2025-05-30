@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2019-06-01'
+title: 'Web Developer'
+company: 'NetNock'
+location: 'Lahore, Pakistan'
+range: 'Jun 2019 – Feb 2020'
+url: 'https://netnock.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Added theme and color customization to WordPress admin using PHP, shortcodes, and jQuery.
+- Developed PHP/Laravel sites with MFA and OAuth 2.0 for secure authentication.
+- Built Joomla E-Shop extensions for conditional promotions and dynamic discounts.

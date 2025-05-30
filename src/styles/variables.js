@@ -2,7 +2,8 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
+    ${
+  '' /* --dark-navy: #020c1b;
     --navy: #0a192f;
     --light-navy: #112240;
     --lightest-navy: #233554;
@@ -15,7 +16,25 @@ const variables = css`
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
-    --blue: #57cbff;
+    --blue: #57cbff; */
+}
+
+    --dark-navy: #fff8f3;
+    --navy: #fef3e7;
+    --light-navy: #fce8d7;
+    --lightest-navy: #f9dcc1;
+    --navy-shadow: rgba(255, 248, 243, 0.7);
+
+    --dark-slate: #b0805e; /* Darker, richer brown-orange */
+    --slate: #a96e42; /* Medium burnt orange for body text */
+    --light-slate: #d19462; /* Warm and readable */
+    --lightest-slate: #e6aa7c; /* Accent background or soft text */
+
+    --white: #ffffff;
+    --green: #f97316; /* Warm orange (Tailwind's orange-500) */
+    --green-tint: rgba(249, 115, 22, 0.1);
+    --pink: #fda4af; /* Soft pink accent */
+    --blue: #7dd3fc; /* Light sky-blue accent */
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
