@@ -2,7 +2,6 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "homepage": "https://EngrAbdulMueed.github.io/newest/",
   "keywords": [
     "gatsby"
   ],
@@ -16,9 +15,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d public"
+    "lint-staged": "lint-staged"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
