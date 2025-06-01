@@ -65,13 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a full-stack developer specializing in crafting scalable, user-focused web and mobile
+        applications. Currently, I’m building efficient, real-time warehouse and logistics solutions
+        at EpicTec in Saarbrücken, Germany.
       </p>
     </>
   );

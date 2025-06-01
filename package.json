@@ -13,8 +13,8 @@
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider gatsby build",
+    "develop": "cross-env NODE_OPTIONS=--openssl-legacy-provider gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -33,6 +33,7 @@
   "dependencies": {
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.12.0",
+    "cross-env": "^7.0.3",
     "gatsby": "^3.4.1",
     "gatsby-plugin-google-analytics": "^3.4.0",
     "gatsby-plugin-image": "^1.4.0",
@@ -52,6 +53,7 @@
     "gatsby-transformer-sharp": "^3.4.0",
     "graphql": "^16.6.0",
     "lodash": "^4.17.19",
+    "postcss": "8.4.21",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
@@ -77,5 +79,11 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
+  },
+  "overrides": {
+    "postcss": "8.4.21"
+  },
+  "resolutions": {
+    "postcss": "8.4.21"
   }
 }

@@ -133,30 +133,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Abdul Mueed and I enjoy creating things that live on the internet.
-              My interest in web development started back in 2012 when I decided to try editing
-              custom Tumblr themes — turns out hacking together a custom reblog button taught me a
-              lot about HTML &amp; CSS!
+              Hello! My name is Abdul Mueed, and I’m a full-stack developer who loves turning ideas
+              into practical, impactful digital experiences. My journey into development began over
+              four years ago when I started building small internal tools to make everyday workflows
+              smoother — one automation script led to another, and soon I was knee-deep in
+              full-stack apps, custom interfaces, and backend integrations.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Since then, I’ve had the opportunity to work across a range of industries — from a
+              student-focused health-tech company to an innovative gym-tech startup and now at a
+              logistics-driven warehouse platform. Along the way, I’ve built scalable mobile and web
+              applications using JavaScript, TypeScript, React Native, and Vue.js, and engineered
+              backend systems with Node.js, ASP.NET, and even a bit of Go and Java.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Currently, I’m focused on building efficient, real-time systems and intuitive
+              interfaces at EpicTec in Saarbrücken, where I help streamline warehouse operations
+              through automation, API integrations, and Raspberry Pi-based printing setups. Whether
+              it’s optimizing employee tools with Redux Toolkit or visualizing athlete movement with
+              OpenGL and Vue, I’m passionate about solving real-world problems with code — and
+              always looking for the next opportunity to learn, improve, and build something useful.
             </p>
 
             {/* <p>Here are a few technologies I’ve been working with recently:</p> */}
